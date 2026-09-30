@@ -1,0 +1,256 @@
+<resources>
+    <!-- App Branding -->
+    <string name="app_name">ScholarBridge AI</string>
+    <string name="app_tagline">கண்டறியவும். விண்ணப்பிக்கவும். கண்காணிக்கவும். வெற்றிபெறவும்.</string>
+    <string name="portal_subtitle">கண்டறியவும். விண்ணப்பிக்கவும். கண்காணிக்கவும். வெற்றிபெறவும்.</string>
+    <string name="platform_tag">கண்டறியவும். விண்ணப்பிக்கவும். கண்காணிக்கவும். வெற்றிபெறவும்.</string>
+
+    <!-- Language Selection -->
+    <string name="language">மொழி</string>
+    <string name="select_language">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="language_en">English</string>
+    <string name="language_ta">தமிழ்</string>
+    <string name="language_te">తెలుగు</string>
+    <string name="language_hi">हिन्दी</string>
+
+    <!-- Login & Auth -->
+    <string name="welcome_back">மீண்டும் வருக</string>
+    <string name="login_subtitle">உதவித்தொகைகளைக் கண்டறியுங்கள், நம்பிக்கையுடன் விண்ணப்பியுங்கள், உங்கள் விண்ணப்பத்தைக் கண்காணியுங்கள்.</string>
+    <string name="mobile_number">மொபைல் எண்</string>
+    <string name="enter_mobile_number">உங்கள் 10 இலக்க மொபைல் எண்ணை உள்ளிடவும்</string>
+    <string name="country_code">+91</string>
+    <string name="send_otp">OTP அனுப்பவும்</string>
+    <string name="sending_otp">சரிபார்ப்புக் குறியீடு அனுப்பப்படுகிறது...</string>
+    <string name="use_student_id_instead">மாணவர் ஐடியைப் பயன்படுத்தவும்</string>
+    <string name="continue_digital_doc">டிஜிட்டல் ஆவண மூலத்துடன் தொடரவும்</string>
+    <string name="new_registration">புதிய பதிவு</string>
+    <string name="track_application">விண்ணப்பத்தைக் கண்காணிக்கவும்</string>
+    <string name="need_help">உதவி தேவையா?</string>
+    <string name="student_id_label">மாணவர் ஐடி / விண்ணப்ப எண்</string>
+    <string name="enter_student_id">உங்கள் விண்ணப்ப எண்ணை உள்ளிடவும்</string>
+    <string name="password_label">கடவுச்சொல்</string>
+    <string name="enter_password">உங்கள் கடவுச்சொல்லை உள்ளிடவும்</string>
+    <string name="captcha_label">பாதுகாப்பு கேப்ட்சா</string>
+    <string name="enter_captcha">காட்டப்பட்டுள்ள குறியீட்டை உள்ளிடவும்</string>
+    <string name="sign_in_button">உள்நுழைக</string>
+
+    <!-- OTP Verification -->
+    <string name="verify_your_number">உங்கள் எண்ணைச் சரிபார்க்கவும்</string>
+    <string name="otp_subtitle">அனுப்பப்பட்ட 6-இலக்கக் குறியீட்டை உள்ளிடவும்</string>
+    <string name="verify_and_continue">சரிபார்த்து தொடரவும்</string>
+    <string name="verifying">சரிபார்க்கப்படுகிறது...</string>
+    <string name="resend_otp">OTP-ஐ மீண்டும் அனுப்பவும்</string>
+    <string name="resend_code_in">%d வினாடிகளில் குறியீட்டை மீண்டும் அனுப்பலாம்</string>
+    <string name="change_number">எண்ணை மாற்றவும்</string>
+    <string name="phone_number_verified">தொலைபேசி எண் சரிபார்க்கப்பட்டது</string>
+    <string name="error_invalid_otp">அந்தக் குறியீடு சரியாக இல்லை. மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="error_expired_otp">உங்கள் குறியீட்டின் காலாவதியானது. புதியதைக் கோரவும்.</string>
+    <string name="error_network">தற்போது சரிபார்க்க முடியவில்லை. உங்கள் இணைப்பைச் சரிபார்த்து மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="error_too_many_requests">பல முயற்சிகள் தோல்வியடைந்தன. சிறிது நேரம் கழித்து மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="error_invalid_phone">சரியான 10 இலக்க மொபைல் எண்ணை உள்ளிடவும்.</string>
+    <string name="error_sms_failed">குறியீட்டை அனுப்ப முடியவில்லை. மீண்டும் முயற்சிக்கவும்.</string>
+
+    <!-- Demo Verification Fallback -->
+    <string name="demo_verification_badge">DEMO VERIFICATION</string>
+    <string name="demo_verification_mode">Demo verification mode</string>
+    <string name="demo_verification_unavailable">SMS verification is unavailable in this prototype environment.</string>
+    <string name="use_demo_verification">Use Demo Verification</string>
+    <string name="demo_otp_hint">Fixed Demo Code: 123456</string>
+
+    <!-- Consent -->
+    <string name="consent_title">தொடர்வதற்கு முன்</string>
+    <string name="consent_description">பொருத்தமான உதவித்தொகைகளைக் கண்டறியவும் உங்கள் விண்ணப்பத்தை நிர்வகிக்கவும் நீங்கள் வழங்கும் தகவல்களைப் பயன்படுத்துகிறோம்.</string>
+    <string name="consent_checkbox">உதவித்தொகை விண்ணப்ப சேவைகளுக்காக எனது தகவல்களைப் பயன்படுத்த ஒப்புக்கொள்கிறேன்.</string>
+    <string name="continue_button">தொடரவும்</string>
+    <string name="back_button">பின்செல்க</string>
+
+    <!-- Dashboard -->
+    <string name="greeting_hi">வணக்கம், %s 👋</string>
+    <string name="dashboard_subtitle">உங்களுக்குப் பொருந்தக்கூடிய வாய்ப்புகளைக் கண்டறிவோம்.</string>
+    <string name="find_my_scholarships">எனது உதவித்தொகைகளைக் கண்டறியவும்</string>
+    <string name="find_scholarships">உதவித்தொகைகளைக் கண்டறியவும்</string>
+    <string name="find_scholarships_sub">பொருத்தமான திட்டங்களைக் கண்டறிய விரைவான கேள்விகளுக்குப் பதிலளிக்கவும்</string>
+    <string name="potentially_relevant_for_you">உங்களுக்குப் பொருத்தமானவை</string>
+    <string name="view_details">விவரங்களைக் காண்க</string>
+    <string name="view_all">அனைத்தையும் காண்க</string>
+    <string name="active_application_label">செயலில் உள்ள விண்ணப்பம்: %s</string>
+    <string name="stage_prefix">நிலை: %s</string>
+    <string name="voice_assist">குரல் உதவி</string>
+    <string name="documents_nav">ஆவணங்கள்</string>
+    <string name="get_help">உதவி பெறுக</string>
+    <string name="potentially_relevant">பொருத்தமானது</string>
+    <string name="dashboard_match_reason">உங்கள் சுயவிவரத் தகவலின் அடிப்படையில்.</string>
+    <string name="official_verification_disclaimer">இறுதித் தகுதி அதிகாரப்பூர்வ சரிபார்ப்புக்கு உட்பட்டது.</string>
+
+    <!-- Scholarships & Matching -->
+    <string name="scholarships_title">உதவித்தொகைகள்</string>
+    <string name="search_scholarships_hint">உதவித்தொகைகள் அல்லது திட்டங்களைத் தேடுங்கள்...</string>
+    <string name="find_my_scholarships_title">எனது உதவித்தொகைகளைக் கண்டறியவும்</string>
+    <string name="matching_subtitle">சில கேள்விகளுக்குப் பதிலளிக்கவும், உங்கள் சுயவிவரத்துடன் பொருந்தக்கூடிய திட்டங்களை அடையாளம் காண்போம்.</string>
+    <string name="analyzing_profile">உங்கள் சுயவிவரம் பகுப்பாய்வு செய்யப்படுகிறது...</string>
+    <string name="all_categories">அனைத்தும்</string>
+    <string name="higher_education">உயர் கல்வி</string>
+    <string name="post_matric">பத்தாம் வகுப்புக்கு பின்</string>
+    <string name="pre_matric">பத்தாம் வகுப்புக்கு முன்</string>
+    <string name="top_class">சிறப்புப் பிரிவு</string>
+    <string name="potential_match">பொருத்தமான வாய்ப்பு</string>
+    <string name="why_match">ஏன் பொருந்தக்கூடும்:</string>
+    <string name="match_education">கல்வி நிலை</string>
+    <string name="match_course">படிப்பு</string>
+    <string name="match_income">வருமான வரம்பு</string>
+    <string name="match_community">தகுதித் தகவல்</string>
+    <string name="start_application">விண்ணப்பிக்கத் தொடங்குங்கள்</string>
+    <string name="about_scholarship">பற்றி</string>
+    <string name="who_may_be_eligible">யார் தகுதியுடையவர்கள்</string>
+    <string name="benefits">நன்மைகள்</string>
+    <string name="required_documents">தேவையான ஆவணங்கள்</string>
+    <string name="important_dates">முக்கிய தேதிகள்</string>
+    <string name="application_process">விண்ணப்பிக்கும் முறை</string>
+    <string name="status_notes">நிலை / குறிப்புகள்</string>
+    <string name="close">மூடுக</string>
+
+    <!-- Application Form -->
+    <string name="step_progress">படி %1$d / %2$d</string>
+    <string name="step_personal">தனிப்பட்ட விவரங்கள்</string>
+    <string name="step_education">கல்வி</string>
+    <string name="step_eligibility">தகுதித் தகவல்</string>
+    <string name="step_documents">ஆவணங்கள்</string>
+    <string name="step_review">மதிப்பாய்வு</string>
+    <string name="step_submit">சமர்ப்பித்தல்</string>
+    <string name="full_name">முழுப் பெயர்</string>
+    <string name="dob">பிறந்த தேதி</string>
+    <string name="gender">பாலினம்</string>
+    <string name="state_label">மாநிலம்</string>
+    <string name="district_label">மாவட்டம்</string>
+    <string name="course_level">கல்வி நிலை</string>
+    <string name="course_name">படிப்புப் பெயர்</string>
+    <string name="institution_label">கல்வி நிறுவனம்</string>
+    <string name="current_year">கல்வி ஆண்டு</string>
+    <string name="academic_score">மதிப்பெண்</string>
+    <string name="community_label">பிரிவு / சமூகம்</string>
+    <string name="family_income">ஆண்டு குடும்ப வருமானம்</string>
+    <string name="submit_application">விண்ணப்பத்தை சமர்ப்பிக்கவும்</string>
+    <string name="application_submitted_success">விண்ணப்பம் சமர்ப்பிக்கப்பட்டது</string>
+    <string name="application_id_label">விண்ணப்ப எண்: %s</string>
+
+    <!-- Documents -->
+    <string name="documents_title">ஆவணங்கள்</string>
+    <string name="documents_subtitle">உங்கள் உதவித்தொகை விண்ணப்பங்களுக்குத் தேவையான ஆவணங்களைப் பாதுகாப்பாக நிர்வகிக்கவும்.</string>
+    <string name="doc_caste">சாதி / பழங்குடியினர் சான்றிதழ்</string>
+    <string name="doc_income">வருமானச் சான்றிதழ்</string>
+    <string name="doc_bonafide">போனஃபைட் சான்றிதழ்</string>
+    <string name="doc_marksheets">மதிப்பெண் சான்றிதழ்கள்</string>
+    <string name="doc_additional">கூடுதல் ஆவணம்</string>
+    <string name="upload_button">பதிவேற்றுக</string>
+    <string name="uploaded_badge">பதிவேற்றப்பட்டது</string>
+    <string name="required_badge">தேவைப்படுகிறது</string>
+    <string name="checking_doc">ஆவணம் சரிபார்க்கப்படுகிறது...</string>
+    <string name="doc_received_verif">சரிபார்ப்பிற்காக ஆவணம் பெறப்பட்டது</string>
+    <string name="doc_check_title">ஆவணச் சரிபார்ப்பு</string>
+    <string name="doc_format_accepted">கோப்பு வடிவம் ஏற்கப்பட்டது</string>
+    <string name="doc_file_readable">கோப்பு படிக்கக்கூடியது</string>
+    <string name="doc_received">தேவையான ஆவணம் பெறப்பட்டது</string>
+    <string name="ai_document_checks">AI-உதவி சரிபார்ப்புகள்</string>
+    <string name="ai_review_note">AI-உதவி மதிப்பாய்வு ஆரம்ப சரிபார்ப்பிற்கு மட்டுமே. இறுதி சரிபார்ப்பு அங்கீகரிக்கப்பட்ட அதிகாரிகளால் நடத்தப்படுகிறது.</string>
+    <string name="no_documents_uploaded">ஆவணம் பதிவேற்றப்படவில்லை</string>
+    <string name="no_documents_available">ஆவணங்கள் எதுவும் இணைக்கப்படவில்லை</string>
+    <string name="no_documents_sub">உதவித்தொகை விண்ணப்பங்களுக்கான சான்றிதழ்களைப் பதிவேற்றவும்.</string>
+    <string name="load_demo_docs">மாதிரி ஆவணங்களை ஏற்றவும்</string>
+    <string name="replace_button">மாற்று</string>
+    <string name="check_details">விவரங்களைச் சரிபார்க்கவும்</string>
+    <string name="doc_available_for_verification">சரிபார்ப்புக்குக் கிடைக்கிறது</string>
+    <string name="doc_type_community">சமூகச் சான்றிதழ்</string>
+    <string name="doc_type_income">வருமானச் சான்றிதழ்</string>
+    <string name="doc_type_academic_proof">கல்விச் சான்றிதழ்</string>
+    <string name="doc_type_academic_record">மதிப்பெண் பட்டியல்</string>
+    <string name="doc_type_optional">கூடுதல் ஆவணம்</string>
+    <string name="doc_info_disclaimer">ஏற்றுக்கொள்ளப்பட்ட வடிவங்கள்: PDF, JPG, PNG (5MB வரை). இணைக்கப்பட்ட பிறகு ஆவணங்கள் சரிபார்ப்புக்குக் கிடைக்கும்.</string>
+    <string name="doc_mandatory">கட்டாயம்</string>
+    <string name="doc_optional">விருப்பத்தேர்வு</string>
+
+    <!-- Applications & Tracking -->
+    <string name="applications_title">விண்ணப்பங்கள்</string>
+    <string name="tracking_subtitle">உங்கள் விண்ணப்பங்களின் மதிப்பாய்வு நிலைகளைக் கண்காணியுங்கள்.</string>
+    <string name="stage_submitted">விண்ணப்பம் சமர்ப்பிக்கப்பட்டது</string>
+    <string name="stage_docs_received">ஆவணங்கள் பெறப்பட்டன</string>
+    <string name="stage_ai_verification">AI-உதவி சரிபார்ப்பு</string>
+    <string name="stage_officer_review">அதிகாரி மதிப்பாய்வு</string>
+    <string name="stage_official_decision">அதிகாரப்பூர்வ முடிவு நிலுவையில்</string>
+    <string name="officer_review_note">அங்கீகரிக்கப்பட்ட அதிகாரிகள் விண்ணப்பங்களை மதிப்பாய்வு செய்து இறுதி முடிவை எடுப்பார்கள்.</string>
+    <string name="no_applications_yet">விண்ணப்பங்கள் எதுவும் இல்லை</string>
+    <string name="no_applications_sub">நீங்கள் சமர்ப்பித்த விண்ணப்பங்கள் இங்கு தோன்றும்.</string>
+
+    <!-- Profile -->
+    <string name="profile_title">சுயவிவரம்</string>
+    <string name="eligibility_provided_note">தகுதித் தகவல் — மாணவரால் வழங்கப்பட்டது</string>
+    <string name="edit_profile">சுயவிவரத்தைத் திருத்துக</string>
+    <string name="preferred_language">விருப்பமான மொழி</string>
+    <string name="privacy_security">தனியுரிமை மற்றும் பாதுகாப்பு</string>
+    <string name="help_support">உதவி மற்றும் ஆதரவு</string>
+    <string name="about_scholarbridge">ScholarBridge AI பற்றி</string>
+    <string name="sign_out">வெளியேறுக</string>
+    <string name="sign_out_confirm">நீங்கள் நிச்சயமாக வெளியேற விரும்புகிறீர்களா?</string>
+    <string name="confirm">உறுதிசெய்</string>
+    <string name="cancel">ரத்துசெய்</string>
+
+    <!-- Notifications & Voice -->
+    <string name="notifications_title">அறிவிப்புகள்</string>
+    <string name="no_notifications">புதிய அறிவிப்புகள் இல்லை</string>
+    <string name="voice_assistance_title">குரல் உதவி</string>
+    <string name="voice_assist_limited_net">வரையறுக்கப்பட்ட இணையத்திற்கான குரல் உதவி</string>
+    <string name="voice_security_notice">பாதுகாப்பு அறிவிப்பு: கடவுச்சொற்கள், OTP-கள் அல்லது PIN-களை ஒருபோதும் பேசாதீர்கள்.</string>
+    <string name="listening">கேட்கிறது...</string>
+    <string name="tap_to_speak">பேசத் தட்டவும்</string>
+    <string name="assisted_centre_title">உதவி மையம் &amp; உதவி</string>
+    <string name="faq_title">அடிக்கடி கேட்கப்படும் கேள்விகள்</string>
+    <string name="helpline">இலவச உதவி எண்: 1800-11-2026</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">முகப்பு</string>
+    <string name="nav_scholarships">உதவித்தொகைகள்</string>
+    <string name="nav_applications">விண்ணப்பங்கள்</string>
+    <string name="nav_documents">ஆவணங்கள்</string>
+    <string name="nav_profile">சுயவிவரம்</string>
+
+    <!-- Innovation Layer -->
+    <string name="application_readiness">விண்ணப்ப தயார்நிலை</string>
+    <string name="pre_submission_checklist">சமர்ப்பிப்பிற்கு முந்தைய சரிபார்ப்புப் பட்டியல்</string>
+    <string name="check_readiness">தயார்நிலையைச் சரிபார்க்கவும்</string>
+    <string name="next_best_action">உங்கள் அடுத்த சிறந்த நடவடிக்கை</string>
+    <string name="scholarship_journey">உதவித்தொகை பயணம்</string>
+    <string name="digital_twin">உதவித்தொகை டிஜிட்டல் இரட்டை</string>
+    <string name="deficiencies_title">குறைபாடுகள் மற்றும் சிக்கல்கள்</string>
+    <string name="cross_doc_intelligence">ஆவணங்களுக்கு இடையேயான நுண்ணறிவு</string>
+    <string name="explainable_eligibility">விளக்கக்கூடிய தகுதி வரைபடம்</string>
+    <string name="rule_sandbox">அதிகாரி விதி சாண்ட்பாக்ஸ்</string>
+    <string name="rule_simulation">விதி மாற்ற உருவகப்படுத்துதல்</string>
+    <string name="uploaded_documents_header">பதிவேற்றப்பட்ட ஆவணங்கள்</string>
+    <string name="required_documents_header">தேவையான ஆவணங்கள்</string>
+    <string name="doc_institution">கல்வி நிறுவனம் / சேர்க்கை ஆவணம்</string>
+    <string name="doc_keep_organized">உங்கள் உதவித்தொகை ஆவணங்களை ஒழுங்கமைத்து வைக்கவும்.</string>
+    <string name="doc_no_uploaded_yet">இன்னும் ஆவணங்கள் பதிவேற்றப்படவில்லை.</string>
+    <string name="upload_document">ஆவணத்தைப் பதிவேற்றுக</string>
+    <string name="view_button">காண்க</string>
+    <string name="ai_check_pending">AI-உதவி சரிபார்ப்பு நிலுவையில் உள்ளது</string>
+    <string name="profile_check_complete">✓ முடிந்தது</string>
+    <string name="eligibility_check_checked">✓ சரிபார்க்கப்பட்டது</string>
+    <string name="readiness_profile">சுயவிவரம்</string>
+    <string name="readiness_eligibility">தகுதி</string>
+    <string name="readiness_documents">ஆவணங்கள்</string>
+    <string name="readiness_application">விண்ணப்பம்</string>
+    <string name="readiness_consistency">நிலைத்தன்மை</string>
+    <string name="readiness_submissions">சமர்ப்பிப்புகள்</string>
+    <string name="issue_singular">1 சிக்கல்</string>
+    <string name="issues_attention">%d சிக்கல்களைக் கவனிக்கவும்</string>
+    <string name="ready_to_submit">சமர்ப்பிக்க தயார்</string>
+    <string name="welcome_back_name">மீண்டும் வருக, %s</string>
+    <string name="journey_profile">சுயவிவரம்</string>
+    <string name="journey_eligibility">தகுதி</string>
+    <string name="journey_documents">ஆவணங்கள்</string>
+    <string name="journey_verification">சரிபார்ப்பு</string>
+    <string name="journey_review">மதிப்பாய்வு</string>
+    <string name="journey_decision">முடிவு</string>
+    <string name="action_required">நடவடிக்கை தேவை</string>
+    <string name="fix_now">இப்போது சரிசெய்</string>
+    <string name="digital_twin_nav">டிஜிட்டல் இரட்டை ›</string>
+</resources>

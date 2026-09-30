@@ -1,0 +1,256 @@
+<resources>
+    <!-- App Branding -->
+    <string name="app_name">ScholarBridge AI</string>
+    <string name="app_tagline">కనుగొనండి. దరఖాస్తు చేసుకోండి. ట్రాక్ చేయండి. విజయం సాధించండి.</string>
+    <string name="portal_subtitle">కనుగొనండి. దరఖాస్తు చేసుకోండి. ట్రాక్ చేయండి. విజయం సాధించండి.</string>
+    <string name="platform_tag">కనుగొనండి. దరఖాస్తు చేసుకోండి. ట్రాక్ చేయండి. విజయం సాధించండి.</string>
+
+    <!-- Language Selection -->
+    <string name="language">భాష</string>
+    <string name="select_language">భాషను ఎంచుకోండి</string>
+    <string name="language_en">English</string>
+    <string name="language_ta">தமிழ்</string>
+    <string name="language_te">తెలుగు</string>
+    <string name="language_hi">हिन्दी</string>
+
+    <!-- Login & Auth -->
+    <string name="welcome_back">స్వాగతం</string>
+    <string name="login_subtitle">స్కాలర్‌షిప్‌లను కనుగొనండి, నమ్మకంతో దరఖాస్తు చేసుకోండి మరియు మీ దరఖాస్తును ట్రాక్ చేయండి.</string>
+    <string name="mobile_number">మొబైల్ నంబర్</string>
+    <string name="enter_mobile_number">మీ 10 అంకెల మొబైల్ నంబర్‌ను నమోదు చేయండి</string>
+    <string name="country_code">+91</string>
+    <string name="send_otp">OTP పంపండి</string>
+    <string name="sending_otp">ధృవీకరణ కోడ్ పంపుతోంది...</string>
+    <string name="use_student_id_instead">స్టూడెంట్ ఐడీని ఉపయోగించండి</string>
+    <string name="continue_digital_doc">డిజిటల్ డాక్యుమెంట్ మూలంతో కొనసాగించండి</string>
+    <string name="new_registration">కొత్త నమోదు</string>
+    <string name="track_application">దరఖాస్తును ట్రాక్ చేయండి</string>
+    <string name="need_help">సహాయం కావాలా?</string>
+    <string name="student_id_label">స్టూడెంట్ ఐడీ / దరఖాస్తు ఐడీ</string>
+    <string name="enter_student_id">మీ దరఖాస్తు ఐడీని నమోదు చేయండి</string>
+    <string name="password_label">పాస్‌వర్డ్</string>
+    <string name="enter_password">మీ పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="captcha_label">సెక్యూరిటీ క్యాప్చా</string>
+    <string name="enter_captcha">చూపిన కోడ్‌ను నమోదు చేయండి</string>
+    <string name="sign_in_button">సైన్ ఇన్ చేయండి</string>
+
+    <!-- OTP Verification -->
+    <string name="verify_your_number">మీ నంబర్‌ను ధృవీకరించండి</string>
+    <string name="otp_subtitle">పంపిన 6-అంకెల కోడ్‌ను నమోదు చేయండి</string>
+    <string name="verify_and_continue">ధృవీకరించి కొనసాగించండి</string>
+    <string name="verifying">ధృవీకరిస్తోంది...</string>
+    <string name="resend_otp">OTPని మళ్లీ పంపండి</string>
+    <string name="resend_code_in">%d సెకన్లలో కోడ్‌ను మళ్లీ పంపండి</string>
+    <string name="change_number">నంబర్ మార్చండి</string>
+    <string name="phone_number_verified">ఫోన్ నంబర్ ధృవీకరించబడింది</string>
+    <string name="error_invalid_otp">ఆ కోడ్ సరైనది కాదు. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="error_expired_otp">మీ కోడ్ గడువు ముగిసింది. కొత్తదాన్ని అభ్యర్థించండి.</string>
+    <string name="error_network">ఇప్పుడు ధృవీకరించడం సాధ్యం కాలేదు. మీ కనెక్షన్ తనిఖీ చేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="error_too_many_requests">చాలా ప్రయత్నాలు జరిగాయి. దయచేసి కాసేపటి తర్వాత ప్రయత్నించండి.</string>
+    <string name="error_invalid_phone">దయచేసి సరైన 10 అంకెల మొబైల్ నంబర్‌ను నమోదు చేయండి.</string>
+    <string name="error_sms_failed">కోడ్‌ను పంపడం సాధ్యం కాలేదు. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+
+    <!-- Demo Verification Fallback -->
+    <string name="demo_verification_badge">DEMO VERIFICATION</string>
+    <string name="demo_verification_mode">Demo verification mode</string>
+    <string name="demo_verification_unavailable">SMS verification is unavailable in this prototype environment.</string>
+    <string name="use_demo_verification">Use Demo Verification</string>
+    <string name="demo_otp_hint">Fixed Demo Code: 123456</string>
+
+    <!-- Consent -->
+    <string name="consent_title">కొనసాగే ముందు</string>
+    <string name="consent_description">సరైన స్కాలర్‌షిప్‌లను గుర్తించడానికి మరియు మీ దరఖాస్తును నిర్వహించడానికి మీరు అందించే సమాచారాన్ని మేము ఉపయోగిస్తాము.</string>
+    <string name="consent_checkbox">స్కాలర్‌షిప్ దరఖాస్తు సేవల కోసం నా సమాచారాన్ని ఉపయోగించడానికి నేను అంగీకరిస్తున్నాను.</string>
+    <string name="continue_button">కొనసాగించండి</string>
+    <string name="back_button">వెనుకకు</string>
+
+    <!-- Dashboard -->
+    <string name="greeting_hi">నమస్కారం, %s 👋</string>
+    <string name="dashboard_subtitle">మీకు సరిపోయే అవకాశాలను కనుగొందాం.</string>
+    <string name="find_my_scholarships">నా స్కాలర్‌షిప్‌లను కనుగొనండి</string>
+    <string name="find_scholarships">స్కాలర్‌షిప్‌లను కనుగొనండి</string>
+    <string name="find_scholarships_sub">సరిపోయే పథకాలను కనుగొనడానికి కొన్ని ప్రశ్నలకు సమాధానం ఇవ్వండి</string>
+    <string name="potentially_relevant_for_you">మీకు సరిపోయే అవకాశాలు</string>
+    <string name="view_details">వివరాలను చూడండి</string>
+    <string name="view_all">అన్నీ చూడండి</string>
+    <string name="active_application_label">క్రియాశీల దరఖాస్తు: %s</string>
+    <string name="stage_prefix">దశ: %s</string>
+    <string name="voice_assist">వాయిస్ అసిస్ట్</string>
+    <string name="documents_nav">పత్రాలు</string>
+    <string name="get_help">సహాయం పొందండి</string>
+    <string name="potentially_relevant">సరిపోయే అవకాశం ఉంది</string>
+    <string name="dashboard_match_reason">మీ ప్రొఫైల్ సమాచారం ఆధారంగా.</string>
+    <string name="official_verification_disclaimer">తుది అర్హత అధికారిక ధృవీకరణకు లోబడి ఉంటుంది.</string>
+
+    <!-- Scholarships & Matching -->
+    <string name="scholarships_title">స్కాలర్‌షిప్‌లు</string>
+    <string name="search_scholarships_hint">స్కాలర్‌షిప్‌లు లేదా పథకాలను శోధించండి...</string>
+    <string name="find_my_scholarships_title">నా స్కాలర్‌షిప్‌లను కనుగొనండి</string>
+    <string name="matching_subtitle">కొన్ని ప్రశ్నలకు సమాధానం ఇవ్వండి, మీ ప్రొఫైల్‌కు సరిపోయే స్కాలర్‌షిప్‌లను గుర్తిస్తాము.</string>
+    <string name="analyzing_profile">మీ ప్రొఫైల్ విశ్లేషించబడుతోంది...</string>
+    <string name="all_categories">అన్నీ</string>
+    <string name="higher_education">ఉన్నత విద్య</string>
+    <string name="post_matric">పోస్ట్-మెట్రిక్</string>
+    <string name="pre_matric">ప్రీ-మెట్రిక్</string>
+    <string name="top_class">టాప్ క్లాస్</string>
+    <string name="potential_match">సరిపోయే అవకాశం</string>
+    <string name="why_match">ఎందుకు సరిపోవచ్చు:</string>
+    <string name="match_education">విద్యా స్థాయి</string>
+    <string name="match_course">కోర్సు</string>
+    <string name="match_income">ఆదాయ పరిమితి</string>
+    <string name="match_community">అర్హత సమాచారం</string>
+    <string name="start_application">దరఖాస్తు ప్రారంభించండి</string>
+    <string name="about_scholarship">గురించి</string>
+    <string name="who_may_be_eligible">ఎవరు అర్హులు</string>
+    <string name="benefits">ప్రయోజనాలు</string>
+    <string name="required_documents">అవసరమైన పత్రాలు</string>
+    <string name="important_dates">ముఖ్యమైన తేదీలు</string>
+    <string name="application_process">దరఖాస్తు విధానం</string>
+    <string name="status_notes">స్థితి / గమనికలు</string>
+    <string name="close">మూసివేయండి</string>
+
+    <!-- Application Form -->
+    <string name="step_progress">దశ %1$d / %2$d</string>
+    <string name="step_personal">వ్యక్తిగత వివరాలు</string>
+    <string name="step_education">విద్య</string>
+    <string name="step_eligibility">అర్హత సమాచారం</string>
+    <string name="step_documents">పత్రాలు</string>
+    <string name="step_review">సమీక్ష</string>
+    <string name="step_submit">సమర్పించండి</string>
+    <string name="full_name">పూర్తి పేరు</string>
+    <string name="dob">పుట్టిన తేదీ</string>
+    <string name="gender">లింగం</string>
+    <string name="state_label">రాష్ట్రం</string>
+    <string name="district_label">జిల్లా</string>
+    <string name="course_level">విద్యా స్థాయి</string>
+    <string name="course_name">కోర్సు పేరు</string>
+    <string name="institution_label">విద్యా సంస్థ</string>
+    <string name="current_year">విద్యా సంవత్సరం</string>
+    <string name="academic_score">మార్కులు / స్కోర్</string>
+    <string name="community_label">వర్గం / సంఘం</string>
+    <string name="family_income">వార్షిక కుటుంబ ఆదాయం</string>
+    <string name="submit_application">దరఖాస్తును సమర్పించండి</string>
+    <string name="application_submitted_success">దరఖాస్తు సమర్పించబడింది</string>
+    <string name="application_id_label">దరఖాస్తు ఐడీ: %s</string>
+
+    <!-- Documents -->
+    <string name="documents_title">పత్రాలు</string>
+    <string name="documents_subtitle">మీ స్కాలర్‌షిప్ దరఖాస్తులకు అవసరమైన పత్రాలను సురక్షితంగా నిర్వహించండి.</string>
+    <string name="doc_caste">కుల / తెగ ధృవీకరణ పత్రం</string>
+    <string name="doc_income">ఆదాయ ధృవీకరణ పత్రం</string>
+    <string name="doc_bonafide">బోనఫైడ్ సర్టిఫికేట్</string>
+    <string name="doc_marksheets">మార్కుల జాబితా</string>
+    <string name="doc_additional">అదనపు పత్రం</string>
+    <string name="upload_button">అప్‌లోడ్ చేయండి</string>
+    <string name="uploaded_badge">అప్‌లోడ్ చేయబడింది</string>
+    <string name="required_badge">అవసరం</string>
+    <string name="checking_doc">పత్రం తనిఖీ చేయబడుతోంది...</string>
+    <string name="doc_received_verif">ధృవీకరణ కోసం పత్రం అందింది</string>
+    <string name="doc_check_title">పత్రం తనిఖీ</string>
+    <string name="doc_format_accepted">ఫైల్ ఫార్మాట్ ఆమోదించబడింది</string>
+    <string name="doc_file_readable">ఫైల్ చదవడానికి స్పష్టంగా ఉంది</string>
+    <string name="doc_received">అవసరమైన పత్రం అందింది</string>
+    <string name="ai_document_checks">AI-సహాయక తనిఖీలు</string>
+    <string name="ai_review_note">AI-సహాయక సమీక్ష ప్రాథమిక తనిఖీకి మాత్రమే. తుది ధృవీకరణ అధికారిక అధికారుల ద్వారా జరుగుతుంది.</string>
+    <string name="no_documents_uploaded">ఎలాంటి పత్రం అప్‌లోడ్ చేయబడలేదు</string>
+    <string name="no_documents_available">ఇంకా పత్రాలు ఏవీ జోడించబడలేదు</string>
+    <string name="no_documents_sub">స్కాలర్‌షిప్ దరఖాస్తులకు అవసరమైన ధృవపత్రాలను అప్‌లోడ్ చేయండి.</string>
+    <string name="load_demo_docs">నమూనా పత్రాలను లోడ్ చేయండి</string>
+    <string name="replace_button">మార్చండి</string>
+    <string name="check_details">వివరాలను తనిఖీ చేయండి</string>
+    <string name="doc_available_for_verification">ధృవీకరణ కోసం అందుబాటులో ఉంది</string>
+    <string name="doc_type_community">కుల ధృవీకరణ</string>
+    <string name="doc_type_income">ఆదాయ ధృవీకరణ</string>
+    <string name="doc_type_academic_proof">విద్యా సంస్థ ధృవీకరణ</string>
+    <string name="doc_type_academic_record">మార్కుల పత్రం</string>
+    <string name="doc_type_optional">అదనపు పత్రం</string>
+    <string name="doc_info_disclaimer">ఆమోదించబడిన ఫార్మాట్లు: PDF, JPG, PNG (5MB వరకు). జతచేసిన తర్వాత పత్రాలు అధికారిక ధృవీకరణకు అందుబాటులో ఉంటాయి.</string>
+    <string name="doc_mandatory">తప్పనిసరి</string>
+    <string name="doc_optional">ఐచ్ఛికం</string>
+
+    <!-- Applications & Tracking -->
+    <string name="applications_title">దరఖాస్తులు</string>
+    <string name="tracking_subtitle">మీరు సమర్పించిన దరఖాస్తుల సమీక్ష దశలను ట్రాక్ చేయండి.</string>
+    <string name="stage_submitted">దరఖాస్తు సమర్పించబడింది</string>
+    <string name="stage_docs_received">పత్రాలు అందాయి</string>
+    <string name="stage_ai_verification">AI-సహాయక ధృవీకరణ</string>
+    <string name="stage_officer_review">అధికారి సమీక్ష</string>
+    <string name="stage_official_decision">అధికారిక నిర్ణయం పెండింగ్‌లో ఉంది</string>
+    <string name="officer_review_note">అధికారిక అధికారులు దరఖాస్తులను సమీక్షించి తుది నిర్ణయం తీసుకుంటారు.</string>
+    <string name="no_applications_yet">ఇంకా దరఖాస్తులు లేవు</string>
+    <string name="no_applications_sub">మీరు సమర్పించిన దరఖాస్తులు ఇక్కడ కనిపిస్తాయి.</string>
+
+    <!-- Profile -->
+    <string name="profile_title">ప్రొఫైల్</string>
+    <string name="eligibility_provided_note">అర్హత సమాచారం — విద్యార్థి అందించినది</string>
+    <string name="edit_profile">ప్రొఫైల్‌ను సవరించండి</string>
+    <string name="preferred_language">ఇష్టపడే భాష</string>
+    <string name="privacy_security">గోప్యత మరియు భద్రత</string>
+    <string name="help_support">సహాయం మరియు మద్దతు</string>
+    <string name="about_scholarbridge">ScholarBridge AI గురించి</string>
+    <string name="sign_out">సైన్ అవుట్</string>
+    <string name="sign_out_confirm">మీరు ఖచ్చితంగా సైన్ అవుట్ చేయాలనుకుంటున్నారా?</string>
+    <string name="confirm">నిర్ధారించండి</string>
+    <string name="cancel">రద్దు చేయండి</string>
+
+    <!-- Notifications & Voice -->
+    <string name="notifications_title">నోటిఫికేషన్‌లు</string>
+    <string name="no_notifications">కొత్త నోటిఫికేషన్‌లు లేవు</string>
+    <string name="voice_assistance_title">వాయిస్ అసిస్టెన్స్</string>
+    <string name="voice_assist_limited_net">పరిమిత ఇంటర్నెట్ కోసం వాయిస్ సహాయం</string>
+    <string name="voice_security_notice">భద్రతా గమనిక: పాస్‌వర్డ్‌లు, OTPలు లేదా PINలను ఎప్పుడూ మాట్లాడకండి.</string>
+    <string name="listening">వింటోంది...</string>
+    <string name="tap_to_speak">మాట్లాడటానికి నొక్కండి</string>
+    <string name="assisted_centre_title">సహాయ కేంద్రం &amp; సహాయం</string>
+    <string name="faq_title">తరచుగా అడిగే ప్రశ్నలు</string>
+    <string name="helpline">టోల్-ఫ్రీ హెల్ప్‌లైన్: 1800-11-2026</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">హోమ్</string>
+    <string name="nav_scholarships">స్కాలర్‌షిప్‌లు</string>
+    <string name="nav_applications">దరఖాస్తులు</string>
+    <string name="nav_documents">పత్రాలు</string>
+    <string name="nav_profile">ప్రొఫైల్</string>
+
+    <!-- Innovation Layer -->
+    <string name="application_readiness">దరఖాస్తు సంసిద్ధత</string>
+    <string name="pre_submission_checklist">సమర్పణకు ముందస్తు చెక్‌లిస్ట్</string>
+    <string name="check_readiness">సంసిద్ధతను తనిఖీ చేయండి</string>
+    <string name="next_best_action">మీ తదుపరి ఉత్తమ చర్య</string>
+    <string name="scholarship_journey">స్కాలర్‌షిప్ ప్రయాణం</string>
+    <string name="digital_twin">స్కాలర్‌షిప్ డిజిటల్ ట్విన్</string>
+    <string name="deficiencies_title">లోపాలు మరియు సమస్యలు</string>
+    <string name="cross_doc_intelligence">క్రాస్-డాక్యుమెంట్ ఇంటెలిజెన్స్</string>
+    <string name="explainable_eligibility">వివరణాత్మక అర్హత గ్రాఫ్</string>
+    <string name="rule_sandbox">అధికారి రూల్ శాండ్‌బాక్స్</string>
+    <string name="rule_simulation">రూల్ మార్పు సిమ్యులేటర్</string>
+    <string name="uploaded_documents_header">అప్‌లోడ్ చేసిన పత్రాలు</string>
+    <string name="required_documents_header">అవసరమైన పత్రాలు</string>
+    <string name="doc_institution">సంస్థ / ప్రవేశ పత్రం</string>
+    <string name="doc_keep_organized">మీ స్కాలర్‌షిప్ పత్రాలను క్రమబద్ధంగా ఉంచుకోండి.</string>
+    <string name="doc_no_uploaded_yet">ఇంకా పత్రాలు ఏవీ అప్‌లోడ్ చేయబడలేదు.</string>
+    <string name="upload_document">పత్రాన్ని అప్‌లోడ్ చేయండి</string>
+    <string name="view_button">చూడండి</string>
+    <string name="ai_check_pending">AI-సహాయక తనిఖీ పెండింగ్‌లో ఉంది</string>
+    <string name="profile_check_complete">✓ పూర్తయింది</string>
+    <string name="eligibility_check_checked">✓ తనిఖీ చేయబడింది</string>
+    <string name="readiness_profile">ప్రొఫైల్</string>
+    <string name="readiness_eligibility">అర్హత</string>
+    <string name="readiness_documents">పత్రాలు</string>
+    <string name="readiness_application">దరఖాస్తు</string>
+    <string name="readiness_consistency">స్థిరత్వం</string>
+    <string name="readiness_submissions">సమర్పణలు</string>
+    <string name="issue_singular">1 సమస్య</string>
+    <string name="issues_attention">%d సమస్యలను పరిశీలించండి</string>
+    <string name="ready_to_submit">సమర్పణకు సిద్ధం</string>
+    <string name="welcome_back_name">స్వాగతం, %s</string>
+    <string name="journey_profile">ప్రొఫైల్</string>
+    <string name="journey_eligibility">అర్హత</string>
+    <string name="journey_documents">పత్రాలు</string>
+    <string name="journey_verification">ధృవీకరణ</string>
+    <string name="journey_review">సమీక్ష</string>
+    <string name="journey_decision">నిర్ణయం</string>
+    <string name="action_required">చర్య అవసరం</string>
+    <string name="fix_now">ఇప్పుడే పరిష్కరించండి</string>
+    <string name="digital_twin_nav">డిజిటల్ ట్విన్ ›</string>
+</resources>

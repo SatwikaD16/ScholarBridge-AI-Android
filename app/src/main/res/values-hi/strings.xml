@@ -1,0 +1,256 @@
+<resources>
+    <!-- App Branding -->
+    <string name="app_name">ScholarBridge AI</string>
+    <string name="app_tagline">खोजें। आवेदन करें। ट्रैक करें। सफल हों।</string>
+    <string name="portal_subtitle">खोजें। आवेदन करें। ट्रैक करें। सफल हों।</string>
+    <string name="platform_tag">खोजें। आवेदन करें। ट्रैक करें। सफल हों।</string>
+
+    <!-- Language Selection -->
+    <string name="language">भाषा</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="language_en">English</string>
+    <string name="language_ta">தமிழ்</string>
+    <string name="language_te">తెలుగు</string>
+    <string name="language_hi">हिन्दी</string>
+
+    <!-- Login & Auth -->
+    <string name="welcome_back">वापसी पर स्वागत है</string>
+    <string name="login_subtitle">छात्रवृत्तियां खोजें, विश्वास के साथ आवेदन करें और अपने आवेदन को ट्रैक करें।</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="enter_mobile_number">अपना 10 अंकों का मोबाइल नंबर दर्ज करें</string>
+    <string name="country_code">+91</string>
+    <string name="send_otp">OTP भेजें</string>
+    <string name="sending_otp">सत्यापन कोड भेजा जा रहा है...</string>
+    <string name="use_student_id_instead">छात्र आईडी का उपयोग करें</string>
+    <string name="continue_digital_doc">डिजिटल दस्तावेज़ स्रोत के साथ जारी रखें</string>
+    <string name="new_registration">नया पंजीकरण</string>
+    <string name="track_application">आवेदन ट्रैक करें</string>
+    <string name="need_help">मदद चाहिए?</string>
+    <string name="student_id_label">छात्र आईडी / आवेदन संख्या</string>
+    <string name="enter_student_id">अपनी आवेदन संख्या दर्ज करें</string>
+    <string name="password_label">पासवर्ड</string>
+    <string name="enter_password">अपना पासवर्ड दर्ज करें</string>
+    <string name="captcha_label">सुरक्षा कैप्चा</string>
+    <string name="enter_captcha">दिखाया गया कोड दर्ज करें</string>
+    <string name="sign_in_button">साइन इन करें</string>
+
+    <!-- OTP Verification -->
+    <string name="verify_your_number">अपना नंबर सत्यापित करें</string>
+    <string name="otp_subtitle">भेजा गया 6-अंकीय कोड दर्ज करें</string>
+    <string name="verify_and_continue">सत्यापित करें और आगे बढ़ें</string>
+    <string name="verifying">सत्यापित किया जा रहा है...</string>
+    <string name="resend_otp">OTP फिर से भेजें</string>
+    <string name="resend_code_in">%d सेकंड में कोड फिर से भेजें</string>
+    <string name="change_number">नंबर बदलें</string>
+    <string name="phone_number_verified">फ़ोन नंबर सत्यापित हो गया</string>
+    <string name="error_invalid_otp">वह कोड सही नहीं लग रहा है। कृपया पुनः प्रयास करें।</string>
+    <string name="error_expired_otp">आपके कोड की समय सीमा समाप्त हो गई है। नया कोड मांगें।</string>
+    <string name="error_network">अभी सत्यापित नहीं किया जा सका। अपना इंटरनेट कनेक्शन जांचें और पुनः प्रयास करें।</string>
+    <string name="error_too_many_requests">बहुत अधिक प्रयास किए गए। कृपया कुछ समय बाद पुनः प्रयास करें।</string>
+    <string name="error_invalid_phone">कृपया एक मान्य 10-अंकीय मोबाइल नंबर दर्ज करें।</string>
+    <string name="error_sms_failed">सत्यापन कोड भेजने में असमर्थ। कृपया पुनः प्रयास करें।</string>
+
+    <!-- Demo Verification Fallback -->
+    <string name="demo_verification_badge">DEMO VERIFICATION</string>
+    <string name="demo_verification_mode">Demo verification mode</string>
+    <string name="demo_verification_unavailable">SMS verification is unavailable in this prototype environment.</string>
+    <string name="use_demo_verification">Use Demo Verification</string>
+    <string name="demo_otp_hint">Fixed Demo Code: 123456</string>
+
+    <!-- Consent -->
+    <string name="consent_title">आगे बढ़ने से पहले</string>
+    <string name="consent_description">हम आपके द्वारा प्रदान की गई जानकारी का उपयोग प्रासंगिक छात्रवृत्तियों की पहचान करने और आपके आवेदन को प्रबंधित करने के लिए करते हैं।</string>
+    <string name="consent_checkbox">मैं छात्रवृत्ति आवेदन सेवाओं के लिए अपनी जानकारी के उपयोग से सहमत हूँ।</string>
+    <string name="continue_button">जारी रखें</string>
+    <string name="back_button">पीछे</string>
+
+    <!-- Dashboard -->
+    <string name="greeting_hi">नमस्ते, %s 👋</string>
+    <string name="dashboard_subtitle">आइए वे अवसर खोजें जो आपसे मेल खाते हैं।</string>
+    <string name="find_my_scholarships">मेरी छात्रवृत्तियां खोजें</string>
+    <string name="find_scholarships">छात्रवृत्तियां खोजें</string>
+    <string name="find_scholarships_sub">सही योजनाएं खोजने के लिए कुछ आसान प्रश्नों के उत्तर दें</string>
+    <string name="potentially_relevant_for_you">आपके लिए संभावित रूप से प्रासंगिक</string>
+    <string name="view_details">विवरण देखें</string>
+    <string name="view_all">सभी देखें</string>
+    <string name="active_application_label">सक्रिय आवेदन: %s</string>
+    <string name="stage_prefix">चरण: %s</string>
+    <string name="voice_assist">ध्वनि सहायता</string>
+    <string name="documents_nav">दस्तावेज़</string>
+    <string name="get_help">मदद लें</string>
+    <string name="potentially_relevant">संभावित रूप से प्रासंगिक</string>
+    <string name="dashboard_match_reason">आपकी प्रोफ़ाइल जानकारी के आधार पर।</string>
+    <string name="official_verification_disclaimer">अंतिम पात्रता आधिकारिक सत्यापन के अधीन है।</string>
+
+    <!-- Scholarships & Matching -->
+    <string name="scholarships_title">छात्रवृत्तियां</string>
+    <string name="search_scholarships_hint">छात्रवृत्तियां या योजनाएं खोजें...</string>
+    <string name="find_my_scholarships_title">मेरी छात्रवृत्तियां खोजें</string>
+    <string name="matching_subtitle">कुछ सवालों के जवाब दें और हम आपकी प्रोफ़ाइल से मेल खाने वाली छात्रवृत्तियों की पहचान करेंगे।</string>
+    <string name="analyzing_profile">आपकी प्रोफ़ाइल का विश्लेषण किया जा रहा है...</string>
+    <string name="all_categories">सभी</string>
+    <string name="higher_education">उच्च शिक्षा</string>
+    <string name="post_matric">पोस्ट-मैट्रिक</string>
+    <string name="pre_matric">प्री-मैट्रिक</string>
+    <string name="top_class">टॉप क्लास</string>
+    <string name="potential_match">संभावित मैच</string>
+    <string name="why_match">यह क्यों मेल खा सकता है:</string>
+    <string name="match_education">शिक्षा स्तर</string>
+    <string name="match_course">पाठ्यक्रम</string>
+    <string name="match_income">आय सीमा</string>
+    <string name="match_community">पात्रता जानकारी</string>
+    <string name="start_application">आवेदन शुरू करें</string>
+    <string name="about_scholarship">के बारे में</string>
+    <string name="who_may_be_eligible">कौन पात्र हो सकता है</string>
+    <string name="benefits">लाभ</string>
+    <string name="required_documents">आवश्यक दस्तावेज़</string>
+    <string name="important_dates">महत्वपूर्ण तिथियां</string>
+    <string name="application_process">आवेदन प्रक्रिया</string>
+    <string name="status_notes">स्थिति / टिप्पणियां</string>
+    <string name="close">बंद करें</string>
+
+    <!-- Application Form -->
+    <string name="step_progress">चरण %1$d / %2$d</string>
+    <string name="step_personal">व्यक्तिगत विवरण</string>
+    <string name="step_education">शिक्षा</string>
+    <string name="step_eligibility">पात्रता जानकारी</string>
+    <string name="step_documents">दस्तावेज़</string>
+    <string name="step_review">समीक्षा</string>
+    <string name="step_submit">जमा करें</string>
+    <string name="full_name">पूरा नाम</string>
+    <string name="dob">जन्म तिथि</string>
+    <string name="gender">लिंग</string>
+    <string name="state_label">राज्य</string>
+    <string name="district_label">जिला</string>
+    <string name="course_level">शिक्षा का स्तर</string>
+    <string name="course_name">पाठ्यक्रम का नाम</string>
+    <string name="institution_label">संस्थान</string>
+    <string name="current_year">शैक्षणिक वर्ष</string>
+    <string name="academic_score">अंक / स्कोर</string>
+    <string name="community_label">वर्ग / समुदाय</string>
+    <string name="family_income">वार्षिक पारिवारिक आय</string>
+    <string name="submit_application">आवेदन जमा करें</string>
+    <string name="application_submitted_success">आवेदन सफलतापूर्वक जमा हुआ</string>
+    <string name="application_id_label">आवेदन आईडी: %s</string>
+
+    <!-- Documents -->
+    <string name="documents_title">दस्तावेज़</string>
+    <string name="documents_subtitle">अपने छात्रवृत्ति आवेदनों के लिए आवश्यक दस्तावेज़ सुरक्षित रूप से प्रबंधित करें।</string>
+    <string name="doc_caste">जाति / जनजाति प्रमाण पत्र</string>
+    <string name="doc_income">आय प्रमाण पत्र</string>
+    <string name="doc_bonafide">बोनाफाइड प्रमाण पत्र</string>
+    <string name="doc_marksheets">अंकतालिकाएं</string>
+    <string name="doc_additional">अतिरिक्त दस्तावेज़</string>
+    <string name="upload_button">अपलोड करें</string>
+    <string name="uploaded_badge">अपलोड किया गया</string>
+    <string name="required_badge">आवश्यक</string>
+    <string name="checking_doc">दस्तावेज़ की जांच हो रही है...</string>
+    <string name="doc_received_verif">सत्यापन के लिए दस्तावेज़ प्राप्त हुआ</string>
+    <string name="doc_check_title">दस्तावेज़ जांच</string>
+    <string name="doc_format_accepted">फ़ाइल प्रारूप स्वीकार किया गया</string>
+    <string name="doc_file_readable">फ़ाइल पढ़ने योग्य है</string>
+    <string name="doc_received">आवश्यक दस्तावेज़ प्राप्त हुआ</string>
+    <string name="ai_document_checks">AI-सहायक जांच</string>
+    <string name="ai_review_note">AI-सहायक समीक्षा केवल पूर्व-जांच के लिए है। अंतिम सत्यापन अधिकृत अधिकारियों द्वारा किया जाता है।</string>
+    <string name="no_documents_uploaded">कोई दस्तावेज़ अपलोड नहीं किया गया</string>
+    <string name="no_documents_available">अभी तक कोई दस्तावेज़ संलग्न नहीं है</string>
+    <string name="no_documents_sub">छात्रवृत्ति आवेदनों के लिए अपने आवश्यक प्रमाण पत्र अपलोड करें।</string>
+    <string name="load_demo_docs">नमूना दस्तावेज़ लोड करें</string>
+    <string name="replace_button">बदलें</string>
+    <string name="check_details">विवरण जांचें</string>
+    <string name="doc_available_for_verification">सत्यापन के लिए उपलब्ध</string>
+    <string name="doc_type_community">समुदाय प्रमाण</string>
+    <string name="doc_type_income">आय प्रमाण</string>
+    <string name="doc_type_academic_proof">शैक्षणिक प्रमाण</string>
+    <string name="doc_type_academic_record">शैक्षणिक रिकॉर्ड</string>
+    <string name="doc_type_optional">वैकल्पिक प्रमाण</string>
+    <string name="doc_info_disclaimer">स्वीकृत प्रारूप: PDF, JPG, PNG (5MB तक)। संलग्न होने के बाद दस्तावेज़ अधिकृत सत्यापन के लिए उपलब्ध होते हैं।</string>
+    <string name="doc_mandatory">अनिवार्य</string>
+    <string name="doc_optional">वैकल्पिक</string>
+
+    <!-- Applications & Tracking -->
+    <string name="applications_title">आवेदन</string>
+    <string name="tracking_subtitle">अपने जमा किए गए आवेदनों के समीक्षा चरणों को ट्रैक करें।</string>
+    <string name="stage_submitted">आवेदन जमा किया गया</string>
+    <string name="stage_docs_received">दस्तावेज़ प्राप्त हुए</string>
+    <string name="stage_ai_verification">AI-सहायक सत्यापन जारी</string>
+    <string name="stage_officer_review">अधिकारी समीक्षा</string>
+    <string name="stage_official_decision">आधिकारिक निर्णय लंबित</string>
+    <string name="officer_review_note">अधिकृत अधिकारी आवेदनों की समीक्षा करते हैं और अंतिम निर्णय लेते हैं।</string>
+    <string name="no_applications_yet">अभी कोई आवेदन नहीं</string>
+    <string name="no_applications_sub">आपके जमा किए गए आवेदन यहां दिखाई देंगे।</string>
+
+    <!-- Profile -->
+    <string name="profile_title">प्रोफ़ाइल</string>
+    <string name="eligibility_provided_note">पात्रता जानकारी — छात्र द्वारा प्रदान की गई</string>
+    <string name="edit_profile">प्रोफ़ाइल संपादित करें</string>
+    <string name="preferred_language">पसंदीदा भाषा</string>
+    <string name="privacy_security">गोपनीयता और सुरक्षा</string>
+    <string name="help_support">सहायता और समर्थन</string>
+    <string name="about_scholarbridge">ScholarBridge AI के बारे में</string>
+    <string name="sign_out">साइन आउट</string>
+    <string name="sign_out_confirm">क्या आप वाकई साइन आउट करना चाहते हैं?</string>
+    <string name="confirm">पुष्टि करें</string>
+    <string name="cancel">रद्द करें</string>
+
+    <!-- Notifications & Voice -->
+    <string name="notifications_title">सूचनाएं</string>
+    <string name="no_notifications">कोई नई सूचना नहीं</string>
+    <string name="voice_assistance_title">ध्वनि सहायता</string>
+    <string name="voice_assist_limited_net">सीमित इंटरनेट के लिए ध्वनि सहायता</string>
+    <string name="voice_security_notice">सुरक्षा सूचना: कभी भी पासवर्ड, OTP या PIN न बोलें।</string>
+    <string name="listening">सुन रहा है...</string>
+    <string name="tap_to_speak">बोलने के लिए टैप करें</string>
+    <string name="assisted_centre_title">सहायता केंद्र और मदद</string>
+    <string name="faq_title">अक्सर पूछे जाने वाले प्रश्न</string>
+    <string name="helpline">टोल-फ्री हेल्पलाइन: 1800-11-2026</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">होम</string>
+    <string name="nav_scholarships">छात्रवृत्तियां</string>
+    <string name="nav_applications">आवेदन</string>
+    <string name="nav_documents">दस्तावेज़</string>
+    <string name="nav_profile">प्रोफ़ाइल</string>
+
+    <!-- Innovation Layer -->
+    <string name="application_readiness">आवेदन तत्परता</string>
+    <string name="pre_submission_checklist">जमा करने से पहले की चेकलिस्ट</string>
+    <string name="check_readiness">तत्परता की जांच करें</string>
+    <string name="next_best_action">आपका अगला सर्वोत्तम कदम</string>
+    <string name="scholarship_journey">छात्रवृत्ति यात्रा</string>
+    <string name="digital_twin">छात्रवृत्ति डिजिटल ट्विन</string>
+    <string name="deficiencies_title">कमियां और समस्याएं</string>
+    <string name="cross_doc_intelligence">क्रॉस-दस्तावेज़ इंटेलिजेंस</string>
+    <string name="explainable_eligibility">स्पष्टीकरण योग्य पात्रता ग्राफ</string>
+    <string name="rule_sandbox">अधिकारी नियम सैंडबॉक्स</string>
+    <string name="rule_simulation">नियम परिवर्तन सिमुलेटर</string>
+    <string name="uploaded_documents_header">अपलोड किए गए दस्तावेज़</string>
+    <string name="required_documents_header">आवश्यक दस्तावेज़</string>
+    <string name="doc_institution">संस्थान / नामांकन दस्तावेज़</string>
+    <string name="doc_keep_organized">अपने छात्रवृत्ति दस्तावेज़ व्यवस्थित रखें।</string>
+    <string name="doc_no_uploaded_yet">अभी तक कोई दस्तावेज़ अपलोड नहीं हुआ।</string>
+    <string name="upload_document">दस्तावेज़ अपलोड करें</string>
+    <string name="view_button">देखें</string>
+    <string name="ai_check_pending">AI-सहायक जांच लंबित</string>
+    <string name="profile_check_complete">✓ पूर्ण</string>
+    <string name="eligibility_check_checked">✓ जाँचा गया</string>
+    <string name="readiness_profile">प्रोफ़ाइल</string>
+    <string name="readiness_eligibility">पात्रता</string>
+    <string name="readiness_documents">दस्तावेज़</string>
+    <string name="readiness_application">आवेदन</string>
+    <string name="readiness_consistency">समानता</string>
+    <string name="readiness_submissions">जमा करना</string>
+    <string name="issue_singular">1 समस्या</string>
+    <string name="issues_attention">%d समस्याओं पर ध्यान दें</string>
+    <string name="ready_to_submit">जमा करने के लिए तैयार</string>
+    <string name="welcome_back_name">वापसी पर स्वागत है, %s</string>
+    <string name="journey_profile">प्रोफ़ाइल</string>
+    <string name="journey_eligibility">पात्रता</string>
+    <string name="journey_documents">दस्तावेज़</string>
+    <string name="journey_verification">सत्यापन</string>
+    <string name="journey_review">समीक्षा</string>
+    <string name="journey_decision">निर्णय</string>
+    <string name="action_required">कार्रवाई आवश्यक</string>
+    <string name="fix_now">अभी ठीक करें</string>
+    <string name="digital_twin_nav">डिजिटल ट्विन ›</string>
+</resources>

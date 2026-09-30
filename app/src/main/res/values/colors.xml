@@ -1,0 +1,15 @@
+<resources>
+    <!-- Government Brand Navy & Accent Colors -->
+    <color name="primary_navy">#0A2540</color>
+    <color name="primary_navy_dark">#061726</color>
+    <color name="primary_navy_light">#1A365D</color>
+    <color name="accent_cyan">#0284C7</color>
+    <color name="accent_teal">#0D9488</color>
+    <color name="surface_light">#F8FAFC</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="status_green">#16A34A</color>
+    <color name="status_amber">#D97706</color>
+    <color name="status_blue">#2563EB</color>
+</resources>

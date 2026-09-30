@@ -1,0 +1,257 @@
+<resources>
+    <!-- App Branding -->
+    <string name="app_name">ScholarBridge AI</string>
+    <string name="app_tagline">Find. Apply. Track. Succeed.</string>
+    <string name="portal_subtitle">Find. Apply. Track. Succeed.</string>
+    <string name="platform_tag">Find. Apply. Track. Succeed.</string>
+
+    <!-- Language Selection -->
+    <string name="language">Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="language_en">English</string>
+    <string name="language_ta">தமிழ்</string>
+    <string name="language_te">తెలుగు</string>
+    <string name="language_hi">हिन्दी</string>
+
+    <!-- Login & Auth -->
+    <string name="welcome_back">Welcome back</string>
+    <string name="login_subtitle">Find scholarships, apply with confidence, and track your application.</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="enter_mobile_number">Enter your 10-digit mobile number</string>
+    <string name="country_code">+91</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="sending_otp">Sending verification code...</string>
+    <string name="use_student_id_instead">Use Student ID instead</string>
+    <string name="continue_digital_doc">Continue with Digital Document Source</string>
+    <string name="new_registration">New Registration</string>
+    <string name="track_application">Track Application</string>
+    <string name="need_help">Need help?</string>
+    <string name="student_id_label">Student ID / Application ID</string>
+    <string name="enter_student_id">Enter your Application ID</string>
+    <string name="password_label">Password</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="captcha_label">Security CAPTCHA</string>
+    <string name="enter_captcha">Enter the code shown</string>
+    <string name="sign_in_button">Sign In</string>
+
+    <!-- OTP Verification -->
+    <string name="verify_your_number">Verify your number</string>
+    <string name="otp_subtitle">Enter the 6-digit code sent to</string>
+    <string name="verify_and_continue">Verify &amp; Continue</string>
+    <string name="verifying">Verifying...</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="resend_code_in">Resend code in %ds</string>
+    <string name="change_number">Change number</string>
+    <string name="phone_number_verified">Phone number verified</string>
+    <string name="error_invalid_otp">That code doesn\'t look right. Please try again.</string>
+    <string name="error_expired_otp">Your code has expired. Request a new one.</string>
+    <string name="error_network">Couldn\'t verify right now. Check your connection and try again.</string>
+    <string name="error_too_many_requests">Too many attempts. Please try again later.</string>
+    <string name="error_invalid_phone">Please enter a valid 10-digit mobile number.</string>
+    <string name="error_sms_failed">Unable to send the code. Please try again.</string>
+
+    <!-- Demo Verification Fallback -->
+    <string name="demo_verification_badge">DEMO VERIFICATION</string>
+    <string name="demo_verification_mode">Demo verification mode</string>
+    <string name="demo_verification_unavailable">SMS verification is unavailable in this prototype environment.</string>
+    <string name="use_demo_verification">Use Demo Verification</string>
+    <string name="demo_otp_hint">Fixed Demo Code: 123456</string>
+
+    <!-- Consent -->
+    <string name="consent_title">Before we continue</string>
+    <string name="consent_description">We use the information you provide to help identify potentially relevant scholarships and manage your application.</string>
+    <string name="consent_checkbox">I agree to the use of my information for scholarship application services.</string>
+    <string name="continue_button">Continue</string>
+    <string name="back_button">Back</string>
+
+    <!-- Dashboard -->
+    <string name="greeting_hi">Hi, %s 👋</string>
+    <string name="dashboard_subtitle">Let\'s find opportunities that match you.</string>
+    <string name="find_my_scholarships">Find My Scholarships</string>
+    <string name="find_scholarships">Find Scholarships</string>
+    <string name="find_scholarships_sub">Answer quick questions to discover matching programs</string>
+    <string name="potentially_relevant_for_you">Potentially Relevant For You</string>
+    <string name="view_details">View Details</string>
+    <string name="view_all">View all</string>
+    <string name="active_application_label">Active Application: %s</string>
+    <string name="stage_prefix">Stage: %s</string>
+    <string name="voice_assist">Voice Assist</string>
+    <string name="documents_nav">Documents</string>
+    <string name="get_help">Get Help</string>
+    <string name="potentially_relevant">Potentially Relevant</string>
+    <string name="dashboard_match_reason">Based on the information in your profile.</string>
+    <string name="official_verification_disclaimer">Final eligibility subject to official verification.</string>
+
+    <!-- Scholarships & Matching -->
+    <string name="scholarships_title">Scholarships</string>
+    <string name="search_scholarships_hint">Search scholarships or schemes...</string>
+    <string name="find_my_scholarships_title">Find My Scholarships</string>
+    <string name="matching_subtitle">Answer a few questions and we\'ll identify scholarships that may match your profile.</string>
+    <string name="analyzing_profile">Analyzing your profile...</string>
+    <string name="all_categories">All</string>
+    <string name="higher_education">Higher Education</string>
+    <string name="post_matric">Post-Matric</string>
+    <string name="pre_matric">Pre-Matric</string>
+    <string name="top_class">Top Class</string>
+    <string name="potential_match">Potential Match</string>
+    <string name="why_match">Why it may match:</string>
+    <string name="match_education">Education level</string>
+    <string name="match_course">Course</string>
+    <string name="match_income">Income range</string>
+    <string name="match_community">Eligibility information</string>
+    <string name="start_application">Start Application</string>
+    <string name="about_scholarship">About</string>
+    <string name="who_may_be_eligible">Who may be eligible</string>
+    <string name="benefits">Benefits</string>
+    <string name="required_documents">Required Documents</string>
+    <string name="important_dates">Important Dates</string>
+    <string name="application_process">Application Process</string>
+    <string name="status_notes">Status / Notes</string>
+    <string name="close">Close</string>
+
+    <!-- Application Form -->
+    <string name="step_progress">Step %1$d of %2$d</string>
+    <string name="step_personal">Personal Details</string>
+    <string name="step_education">Education</string>
+    <string name="step_eligibility">Eligibility Information</string>
+    <string name="step_documents">Documents</string>
+    <string name="step_review">Review</string>
+    <string name="step_submit">Submit</string>
+    <string name="full_name">Full Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="state_label">State</string>
+    <string name="district_label">District</string>
+    <string name="course_level">Education Level</string>
+    <string name="course_name">Course Name</string>
+    <string name="institution_label">Institution</string>
+    <string name="current_year">Academic Year</string>
+    <string name="academic_score">Academic Score</string>
+    <string name="community_label">Community / Category</string>
+    <string name="family_income">Annual Family Income</string>
+    <string name="submit_application">Submit Application</string>
+    <string name="application_submitted_success">Application Submitted</string>
+    <string name="application_id_label">Application ID: %s</string>
+
+    <!-- Documents -->
+    <string name="documents_title">Documents</string>
+    <string name="documents_subtitle">Securely manage the documents required for your scholarship applications.</string>
+    <string name="doc_caste">Caste / Tribal Certificate</string>
+    <string name="doc_income">Income Certificate</string>
+    <string name="doc_bonafide">Bonafide Certificate</string>
+    <string name="doc_marksheets">Mark Sheets</string>
+    <string name="doc_additional">Additional Document</string>
+    <string name="upload_button">Upload</string>
+    <string name="uploaded_badge">Uploaded</string>
+    <string name="required_badge">Required</string>
+    <string name="checking_doc">Checking document...</string>
+    <string name="doc_received_verif">Document received for verification</string>
+    <string name="doc_check_title">Document Check</string>
+    <string name="doc_format_accepted">File format accepted</string>
+    <string name="doc_file_readable">File readable</string>
+    <string name="doc_received">Required document received</string>
+    <string name="ai_document_checks">AI-assisted checks</string>
+    <string name="ai_review_note">AI-assisted review is for pre-screening only. Final verification is conducted by authorized officials.</string>
+    <string name="no_documents_uploaded">No document uploaded</string>
+    <string name="no_documents_available">No documents attached yet</string>
+    <string name="no_documents_sub">Upload your required certificates to support scholarship applications.</string>
+    <string name="load_demo_docs">Load Sample Documents</string>
+    <string name="replace_button">Replace</string>
+    <string name="check_details">Check Details</string>
+    <string name="doc_available_for_verification">Available for verification</string>
+    <string name="doc_type_community">Community Proof</string>
+    <string name="doc_type_income">Income Proof</string>
+    <string name="doc_type_academic_proof">Academic Proof</string>
+    <string name="doc_type_academic_record">Academic Record</string>
+    <string name="doc_type_optional">Optional Proof</string>
+    <string name="doc_info_disclaimer">Accepted formats: PDF, JPG, PNG up to 5MB. Documents are available for authorized verification once attached.</string>
+    <string name="doc_mandatory">Mandatory</string>
+    <string name="doc_optional">Optional</string>
+
+    <!-- Applications & Tracking -->
+    <string name="applications_title">Applications</string>
+    <string name="tracking_subtitle">Track the review stages of your submitted scholarship applications.</string>
+    <string name="stage_submitted">Application Submitted</string>
+    <string name="stage_docs_received">Documents Received</string>
+    <string name="stage_ai_verification">Under AI-Assisted Verification</string>
+    <string name="stage_officer_review">Officer Review</string>
+    <string name="stage_official_decision">Official Decision Pending</string>
+    <string name="officer_review_note">Authorized officials review applications and make the final decision.</string>
+    <string name="no_applications_yet">No applications yet</string>
+    <string name="no_applications_sub">Your submitted applications will appear here.</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Profile</string>
+    <string name="eligibility_provided_note">Eligibility information — Provided by student</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="preferred_language">Preferred Language</string>
+    <string name="privacy_security">Privacy &amp; Security</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="about_scholarbridge">About ScholarBridge AI</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_out_confirm">Are you sure you want to sign out?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Notifications & Voice -->
+    <string name="notifications_title">Notifications</string>
+    <string name="no_notifications">No new notifications</string>
+    <string name="voice_assistance_title">Voice Assistance</string>
+    <string name="voice_assist_limited_net">Voice assistance for limited internet/data access</string>
+    <string name="voice_security_notice">Security notice: Never speak passwords, OTPs, or PINs.</string>
+    <string name="listening">Listening...</string>
+    <string name="tap_to_speak">Tap to speak</string>
+    <string name="assisted_centre_title">Assisted Centre &amp; Help</string>
+    <string name="faq_title">Frequently Asked Questions</string>
+    <string name="helpline">Toll-Free Helpline: 1800-11-2026</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_scholarships">Scholarships</string>
+    <string name="nav_applications">Applications</string>
+    <string name="nav_documents">Documents</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Innovation Layer -->
+    <string name="application_readiness">Application Readiness</string>
+    <string name="pre_submission_checklist">Pre-submission diagnostic checklist</string>
+    <string name="check_readiness">Check Readiness Simulator</string>
+    <string name="next_best_action">YOUR NEXT BEST ACTION</string>
+    <string name="scholarship_journey">Scholarship Journey</string>
+    <string name="digital_twin">Scholarship Digital Twin</string>
+    <string name="deficiencies_title">Deficiencies &amp; Issues</string>
+    <string name="cross_doc_intelligence">Cross-Document Intelligence</string>
+    <string name="explainable_eligibility">Explainable Eligibility Graph</string>
+    <string name="rule_sandbox">Officer Rule Sandbox</string>
+    <string name="rule_simulation">Rule Change Simulator</string>
+    <string name="officer_portal">Officer Review &amp; Scrutiny Portal</string>
+    <string name="uploaded_documents_header">Uploaded Documents</string>
+    <string name="required_documents_header">Required Documents</string>
+    <string name="doc_institution">Institution / Enrollment Document</string>
+    <string name="doc_keep_organized">Keep your scholarship documents organized.</string>
+    <string name="doc_no_uploaded_yet">No documents uploaded yet.</string>
+    <string name="upload_document">Upload Document</string>
+    <string name="view_button">View</string>
+    <string name="ai_check_pending">AI-assisted check pending</string>
+    <string name="profile_check_complete">✓ Complete</string>
+    <string name="eligibility_check_checked">✓ Checked</string>
+    <string name="readiness_profile">Profile</string>
+    <string name="readiness_eligibility">Eligibility</string>
+    <string name="readiness_documents">Documents</string>
+    <string name="readiness_application">Application</string>
+    <string name="readiness_consistency">Consistency</string>
+    <string name="readiness_submissions">Submissions</string>
+    <string name="issue_singular">1 issue</string>
+    <string name="issues_attention">%d issues need attention</string>
+    <string name="ready_to_submit">Ready to Submit</string>
+    <string name="welcome_back_name">Welcome back, %s</string>
+    <string name="journey_profile">Profile</string>
+    <string name="journey_eligibility">Eligibility</string>
+    <string name="journey_documents">Documents</string>
+    <string name="journey_verification">Verification</string>
+    <string name="journey_review">Review</string>
+    <string name="journey_decision">Decision</string>
+    <string name="action_required">Action Required</string>
+    <string name="fix_now">Fix Now</string>
+    <string name="digital_twin_nav">Digital Twin ›</string>
+</resources>
