@@ -80,3 +80,5 @@ Application Tracking
 Officer Review
       ↓
 Official Decision
+License
+Built for hackathon demonstration purposes.
